@@ -1,0 +1,2 @@
+- add pictures as pokemon (allow users to images and give them names)
+- go through and catch all the images to win the game
